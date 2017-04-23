@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<mat_intrinsicMat type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    8.6703847105416060e+002 0. 3.1950625599422449e+002 0.
+    8.6703847105416060e+002 2.3853559382117041e+002 0. 0. 1.</data></mat_intrinsicMat>
+<mat_distortionMat type_id="opencv-matrix">
+  <rows>1</rows>
+  <cols>8</cols>
+  <dt>d</dt>
+  <data>
+    -9.8012824427470210e-003 2.1702517096087626e-001 0. 0.
+    -8.1394675067173006e-001 3.4553738526571807e-002
+    -9.6627288870582917e-002 8.7522005307481526e-002</data></mat_distortionMat>
+<str_cameraName>Flea3-GigE</str_cameraName>
+<int_imageWidth>640</int_imageWidth>
+<int_imageHeight>480</int_imageHeight>
+<int_letterbox>0</int_letterbox>
+<double_CCDX>4.8300000000000000e+000</double_CCDX>
+<double_CCDY>3.6150000000000000e+000</double_CCDY>
+</opencv_storage>
+

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<mat_intrinsicMat type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    4.40442214551e+002 0. 3.20e+002
+    0. 4.40442214551e+002 2.40e+002 
+    0. 0. 1.</data></mat_intrinsicMat>
+<mat_distortionMat type_id="opencv-matrix">
+  <rows>1</rows>
+  <cols>8</cols>
+  <dt>d</dt>
+  <data>
+    0.0 0.0 0.0 0.0
+    0.0 0.0
+    0.0 0.0</data></mat_distortionMat>
+<str_cameraName>POV-Ray</str_cameraName>
+<int_imageWidth>640</int_imageWidth>
+<int_imageHeight>480</int_imageHeight>
+<int_letterbox>0</int_letterbox>
+<double_CCDX>4.0</double_CCDX>
+<double_CCDY>3.0</double_CCDY>
+</opencv_storage>
