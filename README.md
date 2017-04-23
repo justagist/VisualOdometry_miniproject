@@ -1,5 +1,5 @@
 # VisualOdometry_miniproject
-The visual odometry algorithm implemented for Second-term Mini-Project for MSc Robotics, at University of Birmingham.
+The visual odometry algorithm implemented as a part of the Second-term Mini-Project for MSc Robotics, at University of Birmingham.
 
 Comments in visual_odometry.py explains the implementation.
 The code estimates the trajectory of the camera motion.
